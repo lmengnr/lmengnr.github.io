@@ -1,1 +1,6 @@
-Will this work?
+---
+layout: post
+title:  "Second Attempt"
+---
+
+Hopefully this Works :/
